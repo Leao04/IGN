@@ -1,8 +1,68 @@
 <template>
   <div>
+    <Header />
     <Nuxt />
+    <div v-if="messageText" class="notification" :class="messageType">
+      <button class="delete" @click="closeNotification"></button>
+      {{ messageText }}
+    </div>
+    <Footer />
   </div>
 </template>
+
+<script>
+import { mapState, mapActions } from 'vuex'
+import Header from '../components/Header'
+import Footer from '../components/Footer'
+export default {
+  components: {
+    Header,
+    Footer,
+  },
+  data() {
+    return {
+      items: [
+        {
+          title: 'Home',
+          icon: 'home',
+          to: { name: 'index' },
+        },
+        {
+          title: 'Inspire',
+          icon: 'lightbulb',
+          to: { name: 'inspire' },
+        },
+        {
+          title: 'Criar Post',
+          icon: 'plus',
+          to: { name: 'criar-post' },
+        },
+      ],
+    }
+  },
+  computed: {
+    ...mapState({
+      login: (state) => state.user.login,
+      messageText: (state) => state.message.message,
+      messageType: (state) => state.message.type,
+    }),
+  },
+  methods: {
+    ...mapActions({
+      clearUser: 'user/clearUser',
+      showMessage: 'messages/showMessage',
+    }),
+
+    logout() {
+      this.clearUser()
+    },
+
+    closeNotification() {
+      this.showMessage(null)
+    },
+  },
+}
+</script>
 
 <style>
 html {
