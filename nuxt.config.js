@@ -1,11 +1,13 @@
+/* eslint-disable */
 export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'ProjetoSI2',
+    title: 'IGN',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'IGN é o maior de sites de games de todas as plataformas com reviews notícias previews' },
+      { hid: 'keywords', name: 'keywords', content: 'IGN, Jogos, Console, Playstation, Xbox 360, Xbox one, Microsoft, PS4, PS3'},
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },

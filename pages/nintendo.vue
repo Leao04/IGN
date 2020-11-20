@@ -204,3 +204,24 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Nintendo',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Nintendo, Nintendo DS',
+        },
+      ],
+    }
+  },
+}
+</script>
