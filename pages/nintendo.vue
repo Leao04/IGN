@@ -101,7 +101,7 @@
             height="490px"
             width="300px"
           />
-          <p>Control Ultimate Edition – Cloud Version é anunciado</p>
+          <p>Control Ultimate Edition – Cloud Version é anunciado.</p>
         </nuxt-link>
       </div>
       <div class="cardsony2">
@@ -160,45 +160,42 @@
             height="490px"
             width="300px"
           />
-          <p>Ghostrunner ganha data de lançamento para Nintendo Switch</p>
+          <p>Ghostrunner ganha data de lançamento para Nintendo Switch.</p>
         </nuxt-link>
       </div>
       <div class="cardsony7">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemNintendo/animalcrossing">
           <img
-            src="https://sm.ign.com/t/ign_za/slotter/default/xboxseriesx-2-deck-1a401e-1604935311231_9t89.560.jpg"
+            src="https://upload.wikimedia.org/wikipedia/pt/c/c0/Animal_Crossing_New_Horizons_capa.png"
             alt=""
             height="490px"
             width="300px"
           />
-          <p>Análise bugsnax para PS5, PS4 e PC</p>
+          <p>
+            Animal Crossing: New Horizons terá transferência de save e mais.
+          </p>
         </nuxt-link>
       </div>
       <div class="cardsony8">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemNintendo/fireemblem">
           <img
-            src="https://sm.ign.com/t/ign_es/slotter/default/acv-ka-fwd-wallpaper-eivor-200712-945pm-cest_nmk4.560.jpg"
+            src="https://upload.wikimedia.org/wikipedia/pt/c/c8/Fire_Emblem_Three_Houses_capa.png"
             alt=""
             height="490px"
             width="300px"
           />
-          <p>
-            Análise de Assassin's Creed: Valhalla, um show gráfico da nova
-            geração
-          </p>
+          <p>Primeiro Fire Emblem será lançado para Nintendo Switch.</p>
         </nuxt-link>
       </div>
       <div class="cardsony9">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemNintendo/nintendovendas">
           <img
-            src="https://sm.ign.com/t/ign_fr/slotter/default/setsuki-spotlight-thumbnail_k621.560.jpg"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NintendoSwitchLogo.svg/800px-NintendoSwitchLogo.svg.png"
             alt=""
             height="490px"
             width="300px"
           />
-          <p>
-            Test Fantasy Strike, um jogo de luta gratuito, profundo e acessível.
-          </p>
+          <p>Nintendo Switch supera vendas do NES.</p>
         </nuxt-link>
       </div>
     </div>
