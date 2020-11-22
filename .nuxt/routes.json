@@ -3,182 +3,156 @@
     "name": "control",
     "path": "/control",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\control.vue",
-    "chunkName": "pages/control",
-    "_name": "_f91e0d42"
+    "chunkName": "pages/control"
   },
   {
     "name": "desconto",
     "path": "/desconto",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\desconto.vue",
-    "chunkName": "pages/desconto",
-    "_name": "_9a360dce"
+    "chunkName": "pages/desconto"
   },
   {
     "name": "fale-conosco",
     "path": "/fale-conosco",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\fale-conosco.vue",
-    "chunkName": "pages/fale-conosco",
-    "_name": "_4ade80e7"
+    "chunkName": "pages/fale-conosco"
   },
   {
     "name": "filmes",
     "path": "/filmes",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\filmes.vue",
-    "chunkName": "pages/filmes",
-    "_name": "_54de04c0"
+    "chunkName": "pages/filmes"
   },
   {
     "name": "genshin",
     "path": "/genshin",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\genshin.vue",
-    "chunkName": "pages/genshin",
-    "_name": "_6db611e8"
+    "chunkName": "pages/genshin"
   },
   {
     "name": "lançamentos",
     "path": "/lançamentos",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\lançamentos.vue",
-    "chunkName": "pages/lançamentos",
-    "_name": "_1733df92"
+    "chunkName": "pages/lançamentos"
   },
   {
     "name": "logado",
     "path": "/logado",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\logado.vue",
-    "chunkName": "pages/logado",
-    "_name": "_f6733f54"
+    "chunkName": "pages/logado"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_f406e02a"
+    "chunkName": "pages/login"
   },
   {
     "name": "microsoft",
     "path": "/microsoft",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\microsoft.vue",
-    "chunkName": "pages/microsoft",
-    "_name": "_206341f0"
+    "chunkName": "pages/microsoft"
   },
   {
     "name": "nintendo",
     "path": "/nintendo",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\nintendo.vue",
-    "chunkName": "pages/nintendo",
-    "_name": "_3c6b18a3"
+    "chunkName": "pages/nintendo"
   },
   {
     "name": "sony",
     "path": "/sony",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\sony.vue",
-    "chunkName": "pages/sony",
-    "_name": "_402006d6"
+    "chunkName": "pages/sony"
   },
   {
     "name": "supermash",
     "path": "/supermash",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\supermash.vue",
-    "chunkName": "pages/supermash",
-    "_name": "_8bbf3234"
+    "chunkName": "pages/supermash"
   },
   {
     "name": "trabalhe-conosco",
     "path": "/trabalhe-conosco",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\trabalhe-conosco.vue",
-    "chunkName": "pages/trabalhe-conosco",
-    "_name": "_5664cffa"
+    "chunkName": "pages/trabalhe-conosco"
   },
   {
     "name": "Postagem-AOC",
     "path": "/Postagem/AOC",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\Postagem\\\\AOC.vue",
-    "chunkName": "pages/Postagem/AOC",
-    "_name": "_6305de89"
+    "chunkName": "pages/Postagem/AOC"
   },
   {
     "name": "Postagem-Coringa",
     "path": "/Postagem/Coringa",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\Postagem\\\\Coringa.vue",
-    "chunkName": "pages/Postagem/Coringa",
-    "_name": "_94b1544e"
+    "chunkName": "pages/Postagem/Coringa"
   },
   {
     "name": "Postagem-Cyberpunk",
     "path": "/Postagem/Cyberpunk",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\Postagem\\\\Cyberpunk.vue",
-    "chunkName": "pages/Postagem/Cyberpunk",
-    "_name": "_c5c63222"
+    "chunkName": "pages/Postagem/Cyberpunk"
   },
   {
     "name": "Postagem-Lancamento",
     "path": "/Postagem/Lancamento",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\Postagem\\\\Lancamento.vue",
-    "chunkName": "pages/Postagem/Lancamento",
-    "_name": "_6c9c0f16"
+    "chunkName": "pages/Postagem/Lancamento"
   },
   {
     "name": "Postagem-Netflix",
     "path": "/Postagem/Netflix",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\Postagem\\\\Netflix.vue",
-    "chunkName": "pages/Postagem/Netflix",
-    "_name": "_1c6347a6"
+    "chunkName": "pages/Postagem/Netflix"
   },
   {
     "name": "Postagem-Pokemon",
     "path": "/Postagem/Pokemon",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\Postagem\\\\Pokemon.vue",
-    "chunkName": "pages/Postagem/Pokemon",
-    "_name": "_71586867"
+    "chunkName": "pages/Postagem/Pokemon"
   },
   {
     "name": "PostagemSony-Descontos",
     "path": "/PostagemSony/Descontos",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\PostagemSony\\\\Descontos.vue",
-    "chunkName": "pages/PostagemSony/Descontos",
-    "_name": "_3ee0c315"
+    "chunkName": "pages/PostagemSony/Descontos"
   },
   {
     "name": "PostagemSony-Genshin",
     "path": "/PostagemSony/Genshin",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\PostagemSony\\\\Genshin.vue",
-    "chunkName": "pages/PostagemSony/Genshin",
-    "_name": "_2a42edb7"
+    "chunkName": "pages/PostagemSony/Genshin"
   },
   {
     "name": "PostagemSony-Kingdom",
     "path": "/PostagemSony/Kingdom",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\PostagemSony\\\\Kingdom.vue",
-    "chunkName": "pages/PostagemSony/Kingdom",
-    "_name": "_b1f91c10"
+    "chunkName": "pages/PostagemSony/Kingdom"
   },
   {
     "name": "PostagemSony-Monster",
     "path": "/PostagemSony/Monster",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\PostagemSony\\\\Monster.vue",
-    "chunkName": "pages/PostagemSony/Monster",
-    "_name": "_b2a567f2"
+    "chunkName": "pages/PostagemSony/Monster"
   },
   {
     "name": "PostagemSony-StarWars",
     "path": "/PostagemSony/StarWars",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\PostagemSony\\\\StarWars.vue",
-    "chunkName": "pages/PostagemSony/StarWars",
-    "_name": "_95a1f7c0"
+    "chunkName": "pages/PostagemSony/StarWars"
   },
   {
     "name": "post-id",
     "path": "/post/:id?",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\post\\\\_id.vue",
-    "chunkName": "pages/post/_id",
-    "_name": "_9f0346c8"
+    "chunkName": "pages/post/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\lordv\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_87562658"
+    "chunkName": "pages/index"
   }
 ]
