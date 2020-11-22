@@ -22,6 +22,10 @@ const _c5c63222 = () => interopDefault(import('..\\pages\\Postagem\\Cyberpunk.vu
 const _6c9c0f16 = () => interopDefault(import('..\\pages\\Postagem\\Lancamento.vue' /* webpackChunkName: "pages/Postagem/Lancamento" */))
 const _1c6347a6 = () => interopDefault(import('..\\pages\\Postagem\\Netflix.vue' /* webpackChunkName: "pages/Postagem/Netflix" */))
 const _71586867 = () => interopDefault(import('..\\pages\\Postagem\\Pokemon.vue' /* webpackChunkName: "pages/Postagem/Pokemon" */))
+const _d48f58c4 = () => interopDefault(import('..\\pages\\postagemNintendo\\ghostrunner.vue' /* webpackChunkName: "pages/postagemNintendo/ghostrunner" */))
+const _d17b6a3a = () => interopDefault(import('..\\pages\\postagemNintendo\\mario.vue' /* webpackChunkName: "pages/postagemNintendo/mario" */))
+const _fe3fa29e = () => interopDefault(import('..\\pages\\postagemNintendo\\temtem.vue' /* webpackChunkName: "pages/postagemNintendo/temtem" */))
+const _778db9bd = () => interopDefault(import('..\\pages\\postagemNintendo\\zelda.vue' /* webpackChunkName: "pages/postagemNintendo/zelda" */))
 const _3ee0c315 = () => interopDefault(import('..\\pages\\PostagemSony\\Descontos.vue' /* webpackChunkName: "pages/PostagemSony/Descontos" */))
 const _2a42edb7 = () => interopDefault(import('..\\pages\\PostagemSony\\Genshin.vue' /* webpackChunkName: "pages/PostagemSony/Genshin" */))
 const _b1f91c10 = () => interopDefault(import('..\\pages\\PostagemSony\\Kingdom.vue' /* webpackChunkName: "pages/PostagemSony/Kingdom" */))
@@ -122,6 +126,22 @@ export const routerOptions = {
     path: "/Postagem/Pokemon",
     component: _71586867,
     name: "Postagem-Pokemon"
+  }, {
+    path: "/postagemNintendo/ghostrunner",
+    component: _d48f58c4,
+    name: "postagemNintendo-ghostrunner"
+  }, {
+    path: "/postagemNintendo/mario",
+    component: _d17b6a3a,
+    name: "postagemNintendo-mario"
+  }, {
+    path: "/postagemNintendo/temtem",
+    component: _fe3fa29e,
+    name: "postagemNintendo-temtem"
+  }, {
+    path: "/postagemNintendo/zelda",
+    component: _778db9bd,
+    name: "postagemNintendo-zelda"
   }, {
     path: "/PostagemSony/Descontos",
     component: _3ee0c315,

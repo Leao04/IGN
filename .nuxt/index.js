@@ -15,6 +15,7 @@ import { createStore } from './store.js'
 
 import nuxt_plugin_plugin_a311a616 from 'nuxt_plugin_plugin_a311a616' // Source: .\\components\\plugin.js (mode: 'all')
 import nuxt_plugin_bootstrapvue_270d6ec7 from 'nuxt_plugin_bootstrapvue_270d6ec7' // Source: .\\bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_ga_fb0a2534 from 'nuxt_plugin_ga_fb0a2534' // Source: ..\\plugins\\ga.js (mode: 'client')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -74,7 +75,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"ProjetoSI2","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
+    head: {"title":"IGN","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"IGN é o maior de sites de games de todas as plataformas com reviews notícias previews"},{"hid":"keywords","name":"keywords","content":"IGN, Jogos, Console, Playstation, Xbox 360, Xbox one, Microsoft, PS4, PS3"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
 
     store,
     router,
@@ -209,6 +210,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_bootstrapvue_270d6ec7 === 'function') {
     await nuxt_plugin_bootstrapvue_270d6ec7(app.context, inject)
+  }
+
+  if (process.client && typeof nuxt_plugin_ga_fb0a2534 === 'function') {
+    await nuxt_plugin_ga_fb0a2534(app.context, inject)
   }
 
   // Lock enablePreview in context

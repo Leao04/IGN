@@ -180,3 +180,26 @@
 <style>
 @import '../assets/css/estilo.scss';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Microsoft',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Xbox 360, Xbox, Xbox one, Microsoft, Xbox one x, Xbox series',
+        },
+      ],
+    }
+  },
+}
+</script>
