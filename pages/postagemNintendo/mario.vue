@@ -1,5 +1,6 @@
 <template>
   <div>
+    <hr />
     <div class="Postagem1">
       <div class="Textopostagem">
         <h1>Nintendo e LEGO anunciam parceria temática de Super Mario</h1>

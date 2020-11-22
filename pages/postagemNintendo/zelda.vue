@@ -1,5 +1,6 @@
 <template>
   <div>
+    <hr />
     <div class="Postagem1">
       <div class="Textopostagem">
         <h1>Zelda: Nintendo anuncia novo Hyrule Warriors.</h1>

@@ -1,5 +1,6 @@
 <template>
   <div>
+    <hr />
     <div class="Postagem1">
       <div class="Textopostagem">
         <h1>Temtem será lançado para Nintendo Switch em 2021</h1>

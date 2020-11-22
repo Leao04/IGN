@@ -1,5 +1,6 @@
 <template>
   <div>
+    <hr />
     <div class="Postagem1">
       <div class="Textopostagem">
         <h1>Ghostrunner ganha data de lançamento para Nintendo Switch</h1>
