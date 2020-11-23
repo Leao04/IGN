@@ -9,7 +9,7 @@
         indicators
         background="#ababab"
         img-width="1024"
-        img-height="480"
+        img-height="380"
         style="text-shadow: 1px 1px 2px #333"
         @sliding-start="onSlideStart"
         @sliding-end="onSlideEnd"
@@ -36,7 +36,7 @@
             <img
               class="d-block img-fluid w-100"
               width="1024"
-              height="480"
+              height="380"
               src="../assets/img/twice.jpg"
               alt="image slot"
             />
@@ -47,11 +47,20 @@
     <br />
     <h1 class="evento">O maior evento da América Latina</h1>
     <div class="cavaleiro">
-      <img
-        src="../assets/img/comic.jpg"
-        height="500px"
-        alt="Imamgem do evento comic con"
-      />
+      <div class="textobgs">
+        <p>
+          A Brasil Game Show é uma feira anual de videogames organizada pelo
+          empresário Marcelo Tavares, atualmente realizada em São Paulo, Brasil.
+          A feira é considerada a maior conferência do gênero em toda a América
+          Latina.
+        </p>
+      </div>
+      <div class="imagembgs">
+        <img
+          src="https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2019/09/bgs.jpg"
+          alt="Brasil Game Show"
+        />
+      </div>
     </div>
     <div class="comic">
       <br />
