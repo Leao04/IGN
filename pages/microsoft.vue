@@ -71,7 +71,7 @@
     </div>
     <div class="containerSony">
       <div class="cardsony1">
-        <nuxt-link to="/lançamentos">
+        <nuxt-link to="/postagemMicrosoft/overwatchdois">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/overwatch-2-2019-11-01-19-053_qgn1.560.png"
             alt=""
@@ -82,14 +82,14 @@
         </nuxt-link>
       </div>
       <div class="cardsony2">
-        <nuxt-link to="/genshin">
+        <nuxt-link to="/postagemMicrosoft/valhallavendas">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/valhalla-1_weqg.560.png"
             alt=""
             height="490px"
             width="300px"
           />
-          <p>Assassin's Creed Valhalla: Guia de troféus e conquistas...</p>
+          <p>Assassin's Creed Valhalla foi o maior lançamento da série.</p>
         </nuxt-link>
       </div>
       <div class="cardsony3">
@@ -105,32 +105,29 @@
       </div>
 
       <div class="cardsony4">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemMicrosoft/seriexs">
           <img
-            src="https://sm.ign.com/t/ign_hu/slotter/default/acv-cover_jdf9.560.jpg"
+            src="https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2020/09/03-exclusive-inside-the-design-of-the-xbox-series-s-and-x-copy.jpg"
             alt=""
             height="490px"
             width="300px"
           />
-          <p>
-            DICAS-Truques do AC Valhalla: como se tornar um temido Conquistador
-            Viking
-          </p>
+          <p>Xbox Series X/S: Vendas no Brasil estão superando expectativas</p>
         </nuxt-link>
       </div>
       <div class="cardsony5">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemMicrosoft/halo">
           <img
-            src="https://sm.ign.com/t/ign_hu/slotter/default/ac-cover_wbxh.560.jpg"
+            src="https://upload.wikimedia.org/wikipedia/pt/d/d1/Halo_Infinite_capa.png"
             alt=""
             height="490px"
             width="300px"
           />
-          <p>Teste de Assassin's Creed Valhalla</p>
+          <p>Halo Infinite deve ter novidades nas 'próximas semanas'</p>
         </nuxt-link>
       </div>
       <div class="cardsony6">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemMicrosoft/needforspeed">
           <img
             src="https://sm.ign.com/t/ign_hu/slotter/1/18205/18205_f5s3.560.jpg"
             alt=""
