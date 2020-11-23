@@ -4,6 +4,7 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _f91e0d42 = () => interopDefault(import('..\\pages\\control.vue' /* webpackChunkName: "pages/control" */))
+const _5f147310 = () => interopDefault(import('..\\pages\\criar-post.vue' /* webpackChunkName: "pages/criar-post" */))
 const _9a360dce = () => interopDefault(import('..\\pages\\desconto.vue' /* webpackChunkName: "pages/desconto" */))
 const _4ade80e7 = () => interopDefault(import('..\\pages\\fale-conosco.vue' /* webpackChunkName: "pages/fale-conosco" */))
 const _54de04c0 = () => interopDefault(import('..\\pages\\filmes.vue' /* webpackChunkName: "pages/filmes" */))
@@ -22,8 +23,11 @@ const _c5c63222 = () => interopDefault(import('..\\pages\\Postagem\\Cyberpunk.vu
 const _6c9c0f16 = () => interopDefault(import('..\\pages\\Postagem\\Lancamento.vue' /* webpackChunkName: "pages/Postagem/Lancamento" */))
 const _1c6347a6 = () => interopDefault(import('..\\pages\\Postagem\\Netflix.vue' /* webpackChunkName: "pages/Postagem/Netflix" */))
 const _71586867 = () => interopDefault(import('..\\pages\\Postagem\\Pokemon.vue' /* webpackChunkName: "pages/Postagem/Pokemon" */))
+const _024cf5cf = () => interopDefault(import('..\\pages\\postagemNintendo\\animalcrossing.vue' /* webpackChunkName: "pages/postagemNintendo/animalcrossing" */))
+const _5dccf481 = () => interopDefault(import('..\\pages\\postagemNintendo\\fireemblem.vue' /* webpackChunkName: "pages/postagemNintendo/fireemblem" */))
 const _d48f58c4 = () => interopDefault(import('..\\pages\\postagemNintendo\\ghostrunner.vue' /* webpackChunkName: "pages/postagemNintendo/ghostrunner" */))
 const _d17b6a3a = () => interopDefault(import('..\\pages\\postagemNintendo\\mario.vue' /* webpackChunkName: "pages/postagemNintendo/mario" */))
+const _6197303d = () => interopDefault(import('..\\pages\\postagemNintendo\\nintendovendas.vue' /* webpackChunkName: "pages/postagemNintendo/nintendovendas" */))
 const _fe3fa29e = () => interopDefault(import('..\\pages\\postagemNintendo\\temtem.vue' /* webpackChunkName: "pages/postagemNintendo/temtem" */))
 const _778db9bd = () => interopDefault(import('..\\pages\\postagemNintendo\\zelda.vue' /* webpackChunkName: "pages/postagemNintendo/zelda" */))
 const _3ee0c315 = () => interopDefault(import('..\\pages\\PostagemSony\\Descontos.vue' /* webpackChunkName: "pages/PostagemSony/Descontos" */))
@@ -54,6 +58,10 @@ export const routerOptions = {
     path: "/control",
     component: _f91e0d42,
     name: "control"
+  }, {
+    path: "/criar-post",
+    component: _5f147310,
+    name: "criar-post"
   }, {
     path: "/desconto",
     component: _9a360dce,
@@ -127,6 +135,14 @@ export const routerOptions = {
     component: _71586867,
     name: "Postagem-Pokemon"
   }, {
+    path: "/postagemNintendo/animalcrossing",
+    component: _024cf5cf,
+    name: "postagemNintendo-animalcrossing"
+  }, {
+    path: "/postagemNintendo/fireemblem",
+    component: _5dccf481,
+    name: "postagemNintendo-fireemblem"
+  }, {
     path: "/postagemNintendo/ghostrunner",
     component: _d48f58c4,
     name: "postagemNintendo-ghostrunner"
@@ -134,6 +150,10 @@ export const routerOptions = {
     path: "/postagemNintendo/mario",
     component: _d17b6a3a,
     name: "postagemNintendo-mario"
+  }, {
+    path: "/postagemNintendo/nintendovendas",
+    component: _6197303d,
+    name: "postagemNintendo-nintendovendas"
   }, {
     path: "/postagemNintendo/temtem",
     component: _fe3fa29e,
