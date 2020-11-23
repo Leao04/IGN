@@ -25,10 +25,20 @@
         <nuxt-link to="/">Blog</nuxt-link>
       </div>
       <div class="login">
-        <nuxt-link to="/login">
-          <b-button variant="outline-primary">Login</b-button>
-        </nuxt-link>
-        <b-button variant="outline-primary">Sair</b-button>
+        <li v-if="login">
+          <a
+            href="logout"
+            exact-active-class="is-active"
+            @click.prevent="logout"
+          >
+            <b-icon icon="github" /> Sair
+          </a>
+        </li>
+        <li v-else>
+          <nuxt-link to="/login" exact-active-class="is-active">
+            Acessar
+          </nuxt-link>
+        </li>
       </div>
     </div>
   </div>
