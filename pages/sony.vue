@@ -5,7 +5,7 @@
         src="https://images.hdqwalls.com/wallpapers/playstation-logo-background-4k-u9.jpg"
         alt="PlayStation"
         width="100%"
-        height="600px"
+        height="550px"
         class="bannerps5"
       />
     </div>
