@@ -88,7 +88,7 @@
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/635655082846943146-cdzbueiuuaatgqb_q1f5.560.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Coringa de Jared Leto voltará em Snyder Cut de Liga da Justiça</p>
@@ -99,7 +99,7 @@
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/cp77-1920x1080-en-1583665789_v5es.560.jpg"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>
@@ -112,7 +112,7 @@
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/crown-tundra-home_puba.560.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Pokémon Sword & Shield: Tudo sobre The Crown Tundra</p>
@@ -123,7 +123,7 @@
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/579b91e2b08074561cf3b8073878f301_stxy.560.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Netflix: As estreias de filmes e séries em novembro</p>
@@ -134,7 +134,7 @@
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/hyrule-warriors-switch-button-fin-1599595486973_3hxe.560.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Lançamentos de jogos da semana para consoles e PC</p>
@@ -145,7 +145,7 @@
           <img
             src="https://assets1.ignimgs.com/2020/10/21/aoc-deck-1603308225333.jpg?fit=crop&width=282&height=470"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Twitch Stream da AOC tem implicações para a política dos EUA</p>
