@@ -1,5 +1,23 @@
 <template>
   <div>
+    <section>
+      <div>
+        <h1 class="title">{{ $t('title') }}</h1>
+        <p>{{ $t('description') }}</p>
+      </div>
+
+      <div v-if="$fetchState.pending">Carregando...</div>
+      <div v-else class="columns is-mobile">
+        <card v-for="post of posts" :key="post.id" :title="post.title">
+          <p>{{ $t('from') }}: {{ post.author }}</p>
+          <p>{{ $t('price') }}: {{ $n(post.price, 'currency') }}</p>
+          <p>{{ $t('createdAt') }}: {{ $d(post.createdAt, 'short') }}</p>
+          <nuxt-link :to="`post/${post._id}`">{{ $t('readMore') }}</nuxt-link>
+        </card>
+      </div>
+
+      <p>{{ $tc('numberOfPosts', posts.length, { count: posts.length }) }}.</p>
+    </section>
     <div class="carrossel">
       <b-carousel
         id="carousel-1"
