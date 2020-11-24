@@ -142,7 +142,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 10px;
-    height: 690px;
+    height: 570px;
 }
 
 .card1:hover {
@@ -167,7 +167,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 10px;
-    height: 690px;
+    height: 560px;
 }
 
 .card2:hover {
@@ -191,7 +191,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 10px;
-    height: 690px;
+    height: 560px;
 }
 
 .card3:hover {
@@ -216,7 +216,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 10px;
-    height: 690px;
+    height: 560px;
 }
 
 .card4:hover {
@@ -241,7 +241,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 10px;
-    height: 690px;
+    height: 560px;
 }
 
 .card5:hover {
@@ -265,7 +265,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 10px;
-    height: 690px;
+    height: 560px;
 }
 
 .card6:hover {
@@ -1335,13 +1335,6 @@
         margin-left: auto;
         margin-right: auto;
     }
-    .cavaleiro img{
-        height: 300px;
-        width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
     .container1 {
         display: grid;
         grid-template-columns: repeat(3 , 1fr);
@@ -1350,6 +1343,14 @@
         padding-left: 20px;
         padding-bottom: 20px;
         grid-gap: 10px;
+    }
+    .textobgs{
+        grid-column: 1/3;
+        grid-row: 2/2;
+    }
+    .imagembgs{
+        grid-column: 1/3;
+        grid-row: 1/1;
     }
     .card1{
         grid-column: 1 / 1;
