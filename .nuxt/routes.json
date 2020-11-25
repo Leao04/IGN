@@ -14,20 +14,6 @@
     "_name": "_92998666"
   },
   {
-    "name": "genshin",
-    "path": "/genshin",
-    "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\genshin.vue",
-    "chunkName": "pages/genshin",
-    "_name": "_64503934"
-  },
-  {
-    "name": "lançamentos",
-    "path": "/lançamentos",
-    "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\lançamentos.vue",
-    "chunkName": "pages/lançamentos",
-    "_name": "_52b73f91"
-  },
-  {
     "name": "logado",
     "path": "/logado",
     "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\logado.vue",

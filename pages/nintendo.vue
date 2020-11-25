@@ -94,7 +94,7 @@
     </div>
     <div class="containerSony">
       <div class="cardsony1">
-        <nuxt-link to="/control">
+        <nuxt-link to="/postagemNintendo/control">
           <img
             src="../assets/img/control.jpg"
             alt=""
@@ -116,7 +116,7 @@
         </nuxt-link>
       </div>
       <div class="cardsony3">
-        <nuxt-link to="/supermash">
+        <nuxt-link to="/postagemNintendo/supermash">
           <img
             src="https://upload.wikimedia.org/wikipedia/pt/7/7f/Super_Smash_Bros._Ultimate_capa.png"
             alt=""

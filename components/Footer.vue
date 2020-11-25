@@ -20,7 +20,7 @@
         <h5>Redes Sociais</h5>
       </div>
       <div class="facebook">
-        <nuxt-link to="/">Facebook</nuxt-link>
+        <nuxt-link to="www.facebook.com/ignbrasil/">Facebook</nuxt-link>
         <hr />
       </div>
       <div class="instagram">
