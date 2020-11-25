@@ -36,3 +36,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Kingdom Hearts',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Kingdom, Lançamento, Xbox, PlayStation, Pc',
+        },
+      ],
+    }
+  },
+}
+</script>

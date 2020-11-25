@@ -55,3 +55,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Animal Croassing',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Animal Croassing, Save, Transferencia, 19 de novembro',
+        },
+      ],
+    }
+  },
+}
+</script>

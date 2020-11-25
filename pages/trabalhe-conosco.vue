@@ -68,6 +68,7 @@ export default {
   data() {
     return {
       form: {
+        title: 'IGN - Trabalhe Conosco',
         email: '',
         name: '',
         food: null,
@@ -101,6 +102,18 @@ export default {
         this.show = true
       })
     },
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Trabalhe Conosco, IGN, Trabalho, Trabalhe na IGN',
+        },
+      ],
+    }
   },
 }
 </script>

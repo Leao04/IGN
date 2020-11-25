@@ -19,8 +19,7 @@
             src="https://rollingstone.uol.com.br/media/_versions/coringa_-_reproducao_widelg.jpg"
             height="100%"
             width="100%"
-            alt=""
-            srcset=""
+            alt="Coringa"
           />
         </div>
         <div class="texto2">
@@ -46,3 +45,27 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title:
+        'IGN - Coringa de Jared Leto voltará em Snyder Cut de Liga da Justiça',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Filme, Coringa, Jared Leto, Voltará, Snyder, Cut, Liga da Justiça, Estreia, HBO, Batman',
+        },
+      ],
+    }
+  },
+}
+</script>

@@ -44,3 +44,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Halo Infinite',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Novidades, Xbox, Microsoft, Halo, Infitnite, Jarrard, Recepção negativa',
+        },
+      ],
+    }
+  },
+}
+</script>

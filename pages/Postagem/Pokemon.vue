@@ -43,3 +43,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Pokémon Sword & Shield: Tudo sobre The Crown Tundra',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Pokémon Sword &Shield, Tudo sobre The Crow Tundra, 21 de outrubro',
+        },
+      ],
+    }
+  },
+}
+</script>

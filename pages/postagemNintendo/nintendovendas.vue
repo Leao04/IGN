@@ -50,3 +50,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Nintendo Switch',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Supera, Venda, IGN, 2021, Europa, Japão',
+        },
+      ],
+    }
+  },
+}
+</script>

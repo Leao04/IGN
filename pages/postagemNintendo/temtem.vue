@@ -7,7 +7,7 @@
       </div>
       <div class="descricaopostagem">
         <p>
-          Oestúdio Crema anunciou que Temtem, considerado o novo rival de
+          O estúdio Crema anunciou que Temtem, considerado o novo rival de
           Pokémon, será lançado para Nintendo Switch entre março e maio de 2021.
           De acordo com o ComicBook.com, é esperado que o jogo não esteja mais
           em Acesso Antecipado até lá. Versões de PlayStation 4 e Xbox One
@@ -37,3 +37,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Temtem',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'TemTem, 500 mil jogadores, ultrapassou, Steam, Janeiro, Consoles, Em Breve',
+        },
+      ],
+    }
+  },
+}
+</script>

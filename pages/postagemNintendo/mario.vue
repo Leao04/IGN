@@ -44,3 +44,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Nintendo e Lego',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Nintendo, Lego, Parceria, Super, Mario, Lançamento, Filme',
+        },
+      ],
+    }
+  },
+}
+</script>

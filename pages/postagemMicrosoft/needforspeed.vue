@@ -45,3 +45,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Need for Speed Hot Pursuit',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Series X e S, Xbox, Microsoft, Brasil, Vendas, Expectativas, 4k, 60FPS, Need for Speed Hot Pursuit, Hot, Pursuit, Texturas, DLCs',
+        },
+      ],
+    }
+  },
+}
+</script>

@@ -65,3 +65,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Monster Hunter',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Filme, Monter Hunter, Lançamento, Cinemas',
+        },
+      ],
+    }
+  },
+}
+</script>

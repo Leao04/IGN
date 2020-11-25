@@ -39,3 +39,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Ghostrunner',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Ghostrunner, Lançamento, 2020, Disponivel, Temática, Cyberpunk, Sofra',
+        },
+      ],
+    }
+  },
+}
+</script>

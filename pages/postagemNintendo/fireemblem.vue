@@ -46,3 +46,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Fire Embem',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Lançamento, Nintendo, Switch, 2021, 20, games',
+        },
+      ],
+    }
+  },
+}
+</script>

@@ -32,3 +32,25 @@
 <style>
 @import '../assets/css/estilo.scss';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Fale-Conosco',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Fale-conosco, Conosco, Fale, IGN, Brasil',
+        },
+      ],
+    }
+  },
+}
+</script>

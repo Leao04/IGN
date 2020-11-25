@@ -43,3 +43,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - AOC quebra recordes na estreia na Twitch a jogar Among Us',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'AOC, Recordes, Estreia, Twitch, Jogo, Among US, Sonho, Plataforma',
+        },
+      ],
+    }
+  },
+}
+</script>

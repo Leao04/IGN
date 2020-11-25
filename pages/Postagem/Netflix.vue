@@ -93,3 +93,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Netflix: As estreias de filmes e séries em novembro',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Lançamentos, Estreia, Novembro, Filmes, Séries, Netflix, IGN',
+        },
+      ],
+    }
+  },
+}
+</script>

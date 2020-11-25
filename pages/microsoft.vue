@@ -93,14 +93,14 @@
         </nuxt-link>
       </div>
       <div class="cardsony3">
-        <nuxt-link to="/desconto">
+        <nuxt-link to="/postagemMicrosoft/descontos">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/bloodborne_hnkj.560.jpg"
             alt="Jogos de Ps4 e Xbox one"
             height="350px"
             width="300px"
           />
-          <p>Jogos de PS4 e Xbox One com até 85% de desconto ...</p>
+          <p>Games de PS4 e Xbox One com até 90% de desconto</p>
         </nuxt-link>
       </div>
 
@@ -134,7 +134,7 @@
             height="350px"
             width="300px"
           />
-          <p>Need for Speed Hot Pursuit Remastered Me pegue se puder.</p>
+          <p>Need for Speed Hot Pursuit Remastered.</p>
         </nuxt-link>
       </div>
       <div class="cardsony7">

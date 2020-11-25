@@ -107,3 +107,26 @@
     <br />
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Genshin',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Genshin, Requesitos, Android, aparelho, Trailer, Como baixar, Zelda',
+        },
+      ],
+    }
+  },
+}
+</script>

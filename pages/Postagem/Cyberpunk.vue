@@ -47,3 +47,27 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title:
+        'IGN - Cyberpunk 2077: Lançamento, multiplayer, história, gameplay e mais',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Cyberpunk 2077, Lançamento, Multiplayer, História, Gameplay, mais, Stadia, PC, Xbox, Play Station, Computador, Console, RPG,',
+        },
+      ],
+    }
+  },
+}
+</script>

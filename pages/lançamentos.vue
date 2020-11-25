@@ -71,3 +71,26 @@
 <style>
 @import '../assets/css/estilo.scss';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Lançamentos',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Play Station, Sony, Play Station 4, Play Station 5, Play Station 3, Xbox, Xbox one, Xbox series, X, S, Transformers',
+        },
+      ],
+    }
+  },
+}
+</script>

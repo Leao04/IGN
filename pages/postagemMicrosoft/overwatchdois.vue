@@ -42,3 +42,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Overwatch 2',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Series X e S, Xbox, Microsoft, Brasil, PC, Computador, Em Breve, Nintendo, Switch, Sem data, Lançamento',
+        },
+      ],
+    }
+  },
+}
+</script>

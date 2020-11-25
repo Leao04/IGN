@@ -44,3 +44,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: "IGN - Assassin's Creed Valhalla",
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            "Assassin's Creed, Lançamento, Xbox, PC, Playstation, Ubisoft, Viking, Xbox series, X, S, 4, Maior lançamento",
+        },
+      ],
+    }
+  },
+}
+</script>

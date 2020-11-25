@@ -64,3 +64,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Lançamentos de jogos da semana para consoles e PC',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Lançamentos, Jogos, Semana, Consoles, Pc, Novembro, Xbox, Playstation',
+        },
+      ],
+    }
+  },
+}
+</script>

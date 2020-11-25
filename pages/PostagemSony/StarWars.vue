@@ -27,7 +27,7 @@
             src="https://sm.ign.com/ign_br/screenshot/default/squadrons-1_zedn.jpg"
             height="100%"
             width="100%"
-            alt="Kingdom Hearts"
+            alt="Star Wars Squadrons"
           />
         </div>
         <div class="texto2">
@@ -59,3 +59,26 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - StarWars:Squadron',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Star Wars, Xbox, PC, Computador, Play Station, Play, Lançamento',
+        },
+      ],
+    }
+  },
+}
+</script>

@@ -7,7 +7,7 @@
       </div>
       <div class="descricaopostagem">
         <p>
-          ANintendo lançou uma demo de Hyrule Warriors: Age of Calamity, o hack
+          A Nintendo lançou uma demo de Hyrule Warriors: Age of Calamity, o hack
           'n' slash prequela de Zelda: Breath of the Wild. A demonstração do
           capítulo 1 do jogo de Nintendo Switch já está disponível na eShop para
           ser baixada -- o progresso obtido será levado para o game final. A
@@ -30,3 +30,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Zelda',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Zelda, Nintendo, Swit, lançou, Demo, Disponível',
+        },
+      ],
+    }
+  },
+}
+</script>

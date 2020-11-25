@@ -42,3 +42,27 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title:
+        'IGN - Xbox Series X/S: Vendas no Brasil estão superando expectativas',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Series X e S, Xbox, Microsoft, Brasil, Vendas, Expectativas, 27 de outubro',
+        },
+      ],
+    }
+  },
+}
+</script>

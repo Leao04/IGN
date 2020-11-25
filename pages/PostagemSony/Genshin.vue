@@ -39,3 +39,25 @@
 <style>
 @import '../../assets/css/estilo.css';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Genshin Impact',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Genchin, Lançamento, Android, PC, JRPG,',
+        },
+      ],
+    }
+  },
+}
+</script>
