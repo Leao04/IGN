@@ -72,30 +72,30 @@
         <nuxt-link to="/lançamentos">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/illust-crown-2x_1bwz.560.png"
-            alt=""
-            height="490px"
+            alt="Lançamentos da semana"
+            height="350px"
             width="300px"
           />
           <p>Os lançamentos da semana para PS4, Xbox One, Switch e PC</p>
         </nuxt-link>
       </div>
       <div class="cardsony2">
-        <nuxt-link to="/genshin">
+        <nuxt-link to="/postagemSony/Genshin">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/amber-home_nqxt.560.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Genshin Impact: Como baixar e jogar o JRPG gacha do momento</p>
         </nuxt-link>
       </div>
       <div class="cardsony3">
-        <nuxt-link to="/desconto">
+        <nuxt-link to="/postagemSony/Descontos">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/alien-isolation_vcc7.560.jpg"
-            alt=""
-            height="490px"
+            alt="Descontos"
+            height="350px"
             width="300px"
           />
           <p>Games de PS4 e Xbox One com até 90% de desconto</p>
@@ -103,22 +103,22 @@
       </div>
 
       <div class="cardsony4">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemSony/Monster">
           <img
             src="https://sm.ign.com/t/ign_es/slotter/default/monhun1_kezm.560.jpg"
-            alt=""
-            height="490px"
+            alt="Jogo Monster"
+            height="350px"
             width="300px"
           />
           <p>Como Monster Hunter World influenciou filme de caçador de ...</p>
         </nuxt-link>
       </div>
       <div class="cardsony5">
-        <nuxt-link to="/">
+        <nuxt-link to="/PostagemSony/Kingdom">
           <img
             src="https://sm.ign.com/t/ign_es/slotter/default/apps52688139966321892364146b579efe-3833-4c8e-846c-120bf230ab_sy8n.560.jpg"
-            alt=""
-            height="490px"
+            alt="Kingdom Hearts"
+            height="350px"
             width="300px"
           />
           <p>
@@ -127,11 +127,11 @@
         </nuxt-link>
       </div>
       <div class="cardsony6">
-        <nuxt-link to="/">
+        <nuxt-link to="/PostagemSony/StarWars">
           <img
             src="https://sm.ign.com/t/ign_es/slotter/default/stw-squadrons_6ppg.560.jpg"
-            alt=""
-            height="490px"
+            alt="StarWars Esquadrões"
+            height="350px"
             width="300px"
           />
           <p>Star Wars: Esquadrões - Análise</p>
@@ -141,8 +141,8 @@
         <nuxt-link to="/">
           <img
             src="https://sm.ign.com/t/ign_pt/screenshot/default/dt_u5hm.560.jpg"
-            alt=""
-            height="490px"
+            alt="Detroit"
+            height="350px"
             width="300px"
           />
           <p>
@@ -155,8 +155,8 @@
         <nuxt-link to="/">
           <img
             src="https://sm.ign.com/t/ign_ap/screenshot/default/raya-and-the-last-dragon-trailer_aacr.560.jpg"
-            alt=""
-            height="490px"
+            alt="The last dragon Trailer"
+            height="350px"
             width="300px"
           />
           <p>
@@ -168,11 +168,11 @@
         <nuxt-link to="/">
           <img
             src="https://sm.ign.com/t/ign_ap/screenshot/default/aniversary-16-9-7_jqc5.560.png"
-            alt=""
-            height="490px"
+            alt="Sequência do preiado jogo Tailandês"
+            height="350px"
             width="300px"
           />
-          <p>Sequência do premiado jogo tailandês 'Terra-Atlântida'...</p>
+          <p>Sequência do premiado jogo Tailandês 'Terra-Atlântida'...</p>
         </nuxt-link>
       </div>
     </div>
@@ -182,3 +182,26 @@
 <style>
 @import '../assets/css/estilo.scss';
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'IGN - Sony',
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Play Station, Sony, Play Station 4, Play Station 5, Play Station 3',
+        },
+      ],
+    }
+  },
+}
+</script>

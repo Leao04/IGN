@@ -74,8 +74,8 @@
         <nuxt-link to="/postagemMicrosoft/overwatchdois">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/overwatch-2-2019-11-01-19-053_qgn1.560.png"
-            alt=""
-            height="490px"
+            alt="Overwatch 2"
+            height="350px"
             width="300px"
           />
           <p>Overwatch 2: Lançamento, gameplay, lançamento e mais</p>
@@ -85,8 +85,8 @@
         <nuxt-link to="/postagemMicrosoft/valhallavendas">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/valhalla-1_weqg.560.png"
-            alt=""
-            height="490px"
+            alt="Assassin's Creed Valhalla"
+            height="350px"
             width="300px"
           />
           <p>Assassin's Creed Valhalla foi o maior lançamento da série.</p>
@@ -96,8 +96,8 @@
         <nuxt-link to="/desconto">
           <img
             src="https://sm.ign.com/t/ign_br/slotter/default/bloodborne_hnkj.560.jpg"
-            alt=""
-            height="490px"
+            alt="Jogos de Ps4 e Xbox one"
+            height="350px"
             width="300px"
           />
           <p>Jogos de PS4 e Xbox One com até 85% de desconto ...</p>
@@ -108,8 +108,8 @@
         <nuxt-link to="/postagemMicrosoft/seriexs">
           <img
             src="https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2020/09/03-exclusive-inside-the-design-of-the-xbox-series-s-and-x-copy.jpg"
-            alt=""
-            height="490px"
+            alt="Xbox Series X/S"
+            height="350px"
             width="300px"
           />
           <p>Xbox Series X/S: Vendas no Brasil estão superando expectativas</p>
@@ -119,8 +119,8 @@
         <nuxt-link to="/postagemMicrosoft/halo">
           <img
             src="https://upload.wikimedia.org/wikipedia/pt/d/d1/Halo_Infinite_capa.png"
-            alt=""
-            height="490px"
+            alt="Hallo Infinite"
+            height="350px"
             width="300px"
           />
           <p>Halo Infinite deve ter novidades nas 'próximas semanas'</p>
@@ -130,8 +130,8 @@
         <nuxt-link to="/postagemMicrosoft/needforspeed">
           <img
             src="https://sm.ign.com/t/ign_hu/slotter/1/18205/18205_f5s3.560.jpg"
-            alt=""
-            height="490px"
+            alt="Need for Speed Hot Pursuit Remastered"
+            height="350px"
             width="300px"
           />
           <p>Need for Speed Hot Pursuit Remastered Me pegue se puder.</p>
@@ -141,8 +141,8 @@
         <nuxt-link to="/">
           <img
             src="https://sm.ign.com/t/ign_za/slotter/default/xboxseriesx-2-deck-1a401e-1604935311231_9t89.560.jpg"
-            alt=""
-            height="490px"
+            alt="Atrasos Xbox Série X e S"
+            height="350px"
             width="300px"
           />
           <p>Atrasos no lançamento da Série Xbox X|S podem atingir a África</p>
@@ -152,8 +152,8 @@
         <nuxt-link to="/">
           <img
             src="https://sm.ign.com/t/ign_za/slotter/default/cortana-1605098132546-1605118011396_q3dy.560.jpg"
-            alt=""
-            height="490px"
+            alt="Cortana"
+            height="350px"
             width="300px"
           />
           <p>Série de TV Halo reformula Cortana com dubladora original</p>
@@ -163,8 +163,8 @@
         <nuxt-link to="/">
           <img
             src="https://sm.ign.com/t/ign_za/slotter/default/callofdutyblackopscoldwar-singleplayer-deck-sfw-3c0d09-16052_ufph.560.jpg"
-            alt=""
-            height="490px"
+            alt="Call of Duty: Black Ops"
+            height="350px"
             width="300px"
           />
           <p>Call of Duty: Black Ops Campanha da Guerra Fria</p>

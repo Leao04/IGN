@@ -98,7 +98,7 @@
           <img
             src="../assets/img/control.jpg"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Control Ultimate Edition – Cloud Version é anunciado.</p>
@@ -109,7 +109,7 @@
           <img
             src="https://sm.ign.com/t/ign_br/screenshot/default/lego-super-mario_ur2z.320.jpg"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Nintendo e LEGO anunciam parceria temática de Super Mario.</p>
@@ -120,7 +120,7 @@
           <img
             src="https://upload.wikimedia.org/wikipedia/pt/7/7f/Super_Smash_Bros._Ultimate_capa.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>
@@ -135,7 +135,7 @@
           <img
             src="https://cdn-products.eneba.com/resized-products/TrFkCZK_DA74UI8oCE_RhNud-vZ8st2phptDX1v_Mxw_350x200_1x-0.jpeg"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Temtem será lançado para Nintendo Switch em 2021.</p>
@@ -146,7 +146,7 @@
           <img
             src="https://sm.ign.com/t/ign_br/screenshot/default/hyrule-2_17aj.620.jpg"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Zelda: Nintendo anuncia novo Hyrule Warriors.</p>
@@ -157,7 +157,7 @@
           <img
             src="https://static-cdn.jtvnw.net/ttv-boxart/Ghostrunner.jpg"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Ghostrunner ganha data de lançamento para Nintendo Switch.</p>
@@ -168,7 +168,7 @@
           <img
             src="https://upload.wikimedia.org/wikipedia/pt/c/c0/Animal_Crossing_New_Horizons_capa.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>
@@ -181,7 +181,7 @@
           <img
             src="https://upload.wikimedia.org/wikipedia/pt/c/c8/Fire_Emblem_Three_Houses_capa.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Primeiro Fire Emblem será lançado para Nintendo Switch.</p>
@@ -192,7 +192,7 @@
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NintendoSwitchLogo.svg/800px-NintendoSwitchLogo.svg.png"
             alt=""
-            height="490px"
+            height="350px"
             width="300px"
           />
           <p>Nintendo Switch supera vendas do NES.</p>

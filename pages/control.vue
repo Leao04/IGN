@@ -6,7 +6,11 @@
       </p>
     </div>
     <div class="controlvideo" align="center">
-      <video controls="controls" src="../assets/video/control.mp4"></video>
+      <video
+        controls="controls"
+        src="../assets/video/control.mp4"
+        width="60%"
+      ></video>
     </div>
     <div class="conteudocontrol">
       <p>
