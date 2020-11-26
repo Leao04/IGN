@@ -138,18 +138,18 @@
         </nuxt-link>
       </div>
       <div class="cardsony7">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemMicrosoft/ruinedking">
           <img
-            src="https://sm.ign.com/t/ign_za/slotter/default/xboxseriesx-2-deck-1a401e-1604935311231_9t89.560.jpg"
-            alt="Atrasos Xbox Série X e S"
+            src="https://cdn2.unrealengine.com/egs-ruinedkingaleagueoflegendsstory-airshipsyndicate-s2-1200x1600-373788434.jpg"
+            alt="Capa do jogo"
             height="350px"
             width="300px"
           />
-          <p>Atrasos no lançamento da Série Xbox X|S podem atingir a África</p>
+          <p>Ruined King: Uma História de League of Legends</p>
         </nuxt-link>
       </div>
       <div class="cardsony8">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemMicrosoft/haloserie">
           <img
             src="https://sm.ign.com/t/ign_za/slotter/default/cortana-1605098132546-1605118011396_q3dy.560.jpg"
             alt="Cortana"
@@ -160,14 +160,14 @@
         </nuxt-link>
       </div>
       <div class="cardsony9">
-        <nuxt-link to="/">
+        <nuxt-link to="/postagemMicrosoft/gold">
           <img
-            src="https://sm.ign.com/t/ign_za/slotter/default/callofdutyblackopscoldwar-singleplayer-deck-sfw-3c0d09-16052_ufph.560.jpg"
-            alt="Call of Duty: Black Ops"
+            src="https://www.mobygames.com/images/covers/l/465847-the-raven-remastered-xbox-one-front-cover.jpg"
+            alt="Capa do jogo The Raven Remastered"
             height="350px"
             width="300px"
           />
-          <p>Call of Duty: Black Ops Campanha da Guerra Fria</p>
+          <p>Xbox Games With Gold: Jogos gratuitos de dezembro</p>
         </nuxt-link>
       </div>
     </div>

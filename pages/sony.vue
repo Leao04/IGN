@@ -138,9 +138,9 @@
         </nuxt-link>
       </div>
       <div class="cardsony7">
-        <nuxt-link to="/">
+        <nuxt-link to="/PostagemSony/detroit">
           <img
-            src="https://sm.ign.com/t/ign_pt/screenshot/default/dt_u5hm.560.jpg"
+            src="https://upload.wikimedia.org/wikipedia/en/e/ee/Detroit_Become_Human.jpg"
             alt="Detroit"
             height="350px"
             width="300px"
@@ -152,27 +152,25 @@
         </nuxt-link>
       </div>
       <div class="cardsony8">
-        <nuxt-link to="/">
+        <nuxt-link to="/PostagemSony/psplus">
           <img
-            src="https://sm.ign.com/t/ign_ap/screenshot/default/raya-and-the-last-dragon-trailer_aacr.560.jpg"
-            alt="The last dragon Trailer"
+            src="https://cdn-products.eneba.com/resized-products/0mTVDMA_390x400_1x-0.jpg"
+            alt="Capa do jogo Just Cause 4"
             height="350px"
             width="300px"
           />
-          <p>
-            Por que os asiáticos do sudeste devem estar animados com Raya ...
-          </p>
+          <p>PS4 e PS5: Jogos gratuitos da PS Plus em dezembro</p>
         </nuxt-link>
       </div>
       <div class="cardsony9">
-        <nuxt-link to="/">
+        <nuxt-link to="/PostagemSony/ruinedking">
           <img
-            src="https://sm.ign.com/t/ign_ap/screenshot/default/aniversary-16-9-7_jqc5.560.png"
-            alt="Sequência do preiado jogo Tailandês"
+            src="https://cdn2.unrealengine.com/egs-ruinedkingaleagueoflegendsstory-airshipsyndicate-s2-1200x1600-373788434.jpg"
+            alt="Ruined King: Uma História de League of Legends"
             height="350px"
             width="300px"
           />
-          <p>Sequência do premiado jogo Tailandês 'Terra-Atlântida'...</p>
+          <p>Ruined King: Uma História de League of Legends</p>
         </nuxt-link>
       </div>
     </div>
