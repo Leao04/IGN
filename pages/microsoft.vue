@@ -41,9 +41,9 @@
           href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwizsZ3VuIXtAhUoILkGHUFvAUIQFjAAegQIAxAC&url=https%3A%2F%2Fwww.kabum.com.br%2Fhotsite%2Fxboxseries&usg=AOvVaw09NfQU8A9ouEzgk1C_xq2W"
         >
           <img
-            src="https://logodownload.org/wp-content/uploads/2017/11/kabum-logo.png"
+            src="https://images-ext-1.discordapp.net/external/OeIiDOpB2ilRqpC6GM_Zcb6IIgRu36wW5IUEhaKW98I/https/codigovalido.com.br/wp-content/uploads/2018/10/cupom-de-desconto-kabum.png"
             alt="Xbox series X Kabum"
-            height="50px"
+            height="40px"
             width="100px"
           />
         </a>
@@ -61,7 +61,7 @@
           href="https://www.pontofrio.com.br/h/xbox-series-x.aspx?icid=hpdc336_bannercarroussel_bn636_slot2"
         >
           <img
-            src="https://cms-faq.s3-sa-east-1.amazonaws.com/hmg/images/pontofrio.png"
+            src="https://logodownload.org/wp-content/uploads/2014/07/pontofrio-logo-2.png"
             alt="Xbox series X Pontofrio"
             height="50px"
             width="150px"

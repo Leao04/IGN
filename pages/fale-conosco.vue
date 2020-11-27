@@ -5,10 +5,6 @@
         <h1>Fale Conosco</h1>
       </div>
 
-      <div class="Contato">
-        <h4>Contatos</h4>
-      </div>
-
       <div class="conteudoFale">
         <p>
           <b>Publicidade:</b> Para conhecer as opções de publicidade disponíveis

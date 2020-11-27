@@ -40,7 +40,7 @@
           <img
             src="https://logodownload.org/wp-content/uploads/2017/11/kabum-logo.png"
             alt="PlayStation 5 Kabum"
-            height="50px"
+            height="40px"
             width="100px"
           />
         </a>
@@ -58,7 +58,7 @@
           href="https://www.pontofrio.com.br/Games/playstation5/consoles-playstation5/console-playstation-5-controle-sem-fio-dualsense-55010438.html"
         >
           <img
-            src="https://cms-faq.s3-sa-east-1.amazonaws.com/hmg/images/pontofrio.png"
+            src="https://logodownload.org/wp-content/uploads/2014/07/pontofrio-logo-2.png"
             alt="PlayStation 5 Pontofrio"
             height="50px"
             width="150px"

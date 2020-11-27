@@ -15,32 +15,20 @@
         @sliding-end="onSlideEnd"
       >
         <!-- Text slides with image -->
-        <b-carousel-slide
-          caption="Conheça o maior remaster já produzido"
-          text="Resident Evil 2"
-          img-src="../assets/img/resident.jpg"
-        ></b-carousel-slide>
 
-        <!-- Slides with custom text -->
-        <b-carousel-slide img-src="../assets/img/anime.jpg">
-          <h1>O mundo dos animes agora na sua tela</h1>
+        <b-carousel-slide img-src="../assets/img/resident.jpg">
+          <h3>Resident Evil 2"</h3>
         </b-carousel-slide>
-
-        <!-- Slides with image only -->
-        <b-carousel-slide img-src="../assets/img/ac.jpg"></b-carousel-slide>
-
-        <!-- Slides with img slot -->
-        <!-- Note the classes .d-block and .img-fluid to prevent browser default image alignment -->
-        <b-carousel-slide>
-          <template #img>
-            <img
-              class="d-block img-fluid w-100"
-              width="1024"
-              height="380"
-              src="../assets/img/twice.jpg"
-              alt="image slot"
-            />
-          </template>
+        <b-carousel-slide img-src="../assets/img/anime.jpg">
+          <h3>O mundo dos animes agora na sua tela</h3>
+        </b-carousel-slide>
+        <b-carousel-slide img-src="../assets/img/ac.jpg">
+          <h3>Assassin's Creed: Unity</h3>
+        </b-carousel-slide>
+        <b-carousel-slide
+          img-src="https://miro.medium.com/max/5000/1*3_P5gQuFQCXgNsADYOk8Yw.png"
+        >
+          <h3>Bloodborne</h3>
         </b-carousel-slide>
       </b-carousel>
     </div>
@@ -60,26 +48,6 @@
           src="https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2019/09/bgs.jpg"
           alt="Brasil Game Show"
         />
-      </div>
-    </div>
-    <div class="comic">
-      <br />
-      <br />
-      <div>
-        <h1>Contagem regressiva</h1>
-        <form name="form_main">
-          <label for="numero">Data:</label>
-          <input name="date_end" type="date" onblur="myFunction()" />
-          <br />
-        </form>
-        <div class="container">
-          <ul>
-            <li><span id="days"></span>days</li>
-            <li><span id="hours"></span>Hours</li>
-            <li><span id="minutes"></span>Minutes</li>
-            <li><span id="seconds"></span>Seconds</li>
-          </ul>
-        </div>
       </div>
     </div>
     <div class="container1">

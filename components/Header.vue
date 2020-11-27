@@ -5,9 +5,9 @@
         <nuxt-link to="/">
           <img
             class="logo"
-            src="../assets/img/ign-logo.png"
+            src="https://cdn.freelogovectors.net/wp-content/uploads/2018/08/IGN-Logo.png"
             alt="Logo da IGN"
-            height="100em"
+            height="90em"
             width="230em"
           />
         </nuxt-link>
@@ -33,11 +33,6 @@
           >
             <b-icon icon="github" /> Sair
           </a>
-        </li>
-        <li v-else>
-          <nuxt-link to="/login" exact-active-class="is-active">
-            Acessar
-          </nuxt-link>
         </li>
       </div>
     </div>

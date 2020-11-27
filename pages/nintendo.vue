@@ -84,7 +84,7 @@
           href="https://www.pontofrio.com.br/Games/nintendo-switch/consoles-nintendo-switch/console-nintendo-switch-blue-red-new-2019-1501347625.html?recsource=busca-int&rectype=busca-3083"
         >
           <img
-            src="https://cms-faq.s3-sa-east-1.amazonaws.com/hmg/images/pontofrio.png"
+            src="https://logodownload.org/wp-content/uploads/2014/07/pontofrio-logo-2.png"
             alt="Console Nintendo Switch Pontofrio"
             height="50px"
             width="150px"
