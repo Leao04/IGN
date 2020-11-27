@@ -24,17 +24,6 @@
       <div class="blog">
         <nuxt-link to="/">Blog</nuxt-link>
       </div>
-      <div class="login">
-        <li v-if="login">
-          <a
-            href="logout"
-            exact-active-class="is-active"
-            @click.prevent="logout"
-          >
-            <b-icon icon="github" /> Sair
-          </a>
-        </li>
-      </div>
     </div>
   </div>
 </template>

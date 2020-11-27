@@ -5,8 +5,6 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _448f97ff = () => interopDefault(import('..\\pages\\desconto.vue' /* webpackChunkName: "pages/desconto" */))
 const _92998666 = () => interopDefault(import('..\\pages\\fale-conosco.vue' /* webpackChunkName: "pages/fale-conosco" */))
-const _a390fe88 = () => interopDefault(import('..\\pages\\logado.vue' /* webpackChunkName: "pages/logado" */))
-const _f15a6a76 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
 const _77e7006c = () => interopDefault(import('..\\pages\\microsoft.vue' /* webpackChunkName: "pages/microsoft" */))
 const _63d490ee = () => interopDefault(import('..\\pages\\nintendo.vue' /* webpackChunkName: "pages/nintendo" */))
 const _5bd9fe7b = () => interopDefault(import('..\\pages\\sony.vue' /* webpackChunkName: "pages/sony" */))
@@ -43,7 +41,6 @@ const _68f692e1 = () => interopDefault(import('..\\pages\\PostagemSony\\Monster.
 const _4bde62c6 = () => interopDefault(import('..\\pages\\PostagemSony\\psplus.vue' /* webpackChunkName: "pages/PostagemSony/psplus" */))
 const _42112107 = () => interopDefault(import('..\\pages\\PostagemSony\\ruinedking.vue' /* webpackChunkName: "pages/PostagemSony/ruinedking" */))
 const _3c0e9886 = () => interopDefault(import('..\\pages\\PostagemSony\\StarWars.vue' /* webpackChunkName: "pages/PostagemSony/StarWars" */))
-const _54279a76 = () => interopDefault(import('..\\pages\\post\\_id.vue' /* webpackChunkName: "pages/post/_id" */))
 const _84a9b0a4 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
@@ -70,14 +67,6 @@ export const routerOptions = {
     path: "/fale-conosco",
     component: _92998666,
     name: "fale-conosco"
-  }, {
-    path: "/logado",
-    component: _a390fe88,
-    name: "logado"
-  }, {
-    path: "/login",
-    component: _f15a6a76,
-    name: "login"
   }, {
     path: "/microsoft",
     component: _77e7006c,
@@ -222,10 +211,6 @@ export const routerOptions = {
     path: "/PostagemSony/StarWars",
     component: _3c0e9886,
     name: "PostagemSony-StarWars"
-  }, {
-    path: "/post/:id?",
-    component: _54279a76,
-    name: "post-id"
   }, {
     path: "/",
     component: _84a9b0a4,

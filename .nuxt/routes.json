@@ -14,20 +14,6 @@
     "_name": "_92998666"
   },
   {
-    "name": "logado",
-    "path": "/logado",
-    "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\logado.vue",
-    "chunkName": "pages/logado",
-    "_name": "_a390fe88"
-  },
-  {
-    "name": "login",
-    "path": "/login",
-    "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_f15a6a76"
-  },
-  {
     "name": "microsoft",
     "path": "/microsoft",
     "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\microsoft.vue",
@@ -278,13 +264,6 @@
     "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\PostagemSony\\\\StarWars.vue",
     "chunkName": "pages/PostagemSony/StarWars",
     "_name": "_3c0e9886"
-  },
-  {
-    "name": "post-id",
-    "path": "/post/:id?",
-    "component": "C:\\\\Users\\\\malve\\\\Documents\\\\GitHub\\\\ProjetoSI2\\\\pages\\\\post\\\\_id.vue",
-    "chunkName": "pages/post/_id",
-    "_name": "_54279a76"
   },
   {
     "name": "index",
