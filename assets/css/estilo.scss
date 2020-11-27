@@ -706,7 +706,7 @@
 .Trabalhe-conosco-grid{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-rows: repeat(auto, 1fr);
 }
 
 .Trabalhe-conosco-Titulo{

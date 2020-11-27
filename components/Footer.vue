@@ -20,11 +20,15 @@
         <h5>Redes Sociais</h5>
       </div>
       <div class="facebook">
-        <a href="https://www.facebook.com/ignbrasil/">Facebook</a>
+        <a href="https://www.facebook.com/ignbrasil/" target="_blank"
+          >Facebook</a
+        >
         <hr />
       </div>
       <div class="instagram">
-        <a href="https://www.instagram.com/ignbrasil/?hl=pt-br">Instagram</a>
+        <a href="https://www.instagram.com/ignbrasil/?hl=pt-br " target="_blank"
+          >Instagram</a
+        >
         <hr />
       </div>
       <div class="ign">

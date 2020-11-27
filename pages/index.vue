@@ -16,18 +16,20 @@
       >
         <!-- Text slides with image -->
 
-        <b-carousel-slide img-src="../assets/img/resident.jpg">
+        <b-carousel-slide
+          img-src="https://initiate.alphacoders.com/images/942/cropped-1600-900-942590.jpg?1105"
+        >
           <h3>Resident Evil 2"</h3>
         </b-carousel-slide>
         <b-carousel-slide img-src="../assets/img/anime.jpg">
           <h3>O mundo dos animes agora na sua tela</h3>
         </b-carousel-slide>
-        <b-carousel-slide img-src="../assets/img/ac.jpg">
+        <b-carousel-slide
+          img-src="https://initiate.alphacoders.com/images/495/cropped-1600-900-495796.jpg?2515"
+        >
           <h3>Assassin's Creed: Unity</h3>
         </b-carousel-slide>
-        <b-carousel-slide
-          img-src="https://miro.medium.com/max/5000/1*3_P5gQuFQCXgNsADYOk8Yw.png"
-        >
+        <b-carousel-slide img-src="../assets/img/blood.png">
           <h3>Bloodborne</h3>
         </b-carousel-slide>
       </b-carousel>

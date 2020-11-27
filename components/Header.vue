@@ -22,7 +22,7 @@
         <nuxt-link to="/nintendo">Nintendo</nuxt-link>
       </div>
       <div class="blog">
-        <nuxt-link to="/">Blog</nuxt-link>
+        <a href="http://ignprojeto2.wordpress.com" target="_blank">Blog</a>
       </div>
     </div>
   </div>
